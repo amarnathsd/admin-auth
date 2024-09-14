@@ -1,6 +1,5 @@
 // src/LoginScreen.js
 import React, { useState } from "react";
-// import { signInWithEmailAndPassword, auth } from '../firebaseConfig';
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { useNavigate } from "react-router-dom";
