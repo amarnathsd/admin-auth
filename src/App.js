@@ -3,6 +3,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import LoginScreen from './screens/LoginScreen';
 import UserManagementScreen from './screens/UserManagementScreen';
+import './App.css'
 
 const AdminApp = () => (
   <Router>
